@@ -9,6 +9,10 @@ Enrique - Both members are to contribute equally to all portions of the project.
 **Research/Business Question**
 
 **Datasets**
+https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3/about_data
+
+https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data
+
 
 **Time Line** 
 
