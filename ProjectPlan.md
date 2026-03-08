@@ -13,6 +13,25 @@ https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3
 
 https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if/about_data
 
+The GitHub repository will be organized to make the project easy to understand and reproduce. Data files, scripts, and documentation will be stored in separate directories.
+For example:
+
+project-repository
+│
+├── data
+│   ├── raw
+│   └── processed
+│
+├── src
+│   ├── acquire_data.py
+│   ├── clean_data.py
+│   └── integrate_data.py
+│
+├── ProjectPlan.md
+└── README.md
+
+Raw datasets will be stored in the raw folder, while cleaned datasets will be stored in the processed folder. Python scripts used for data processing will be stored in the src directory. Documentation and project reports will be written using Markdown files.
+
 
 **Time Line** 
 
