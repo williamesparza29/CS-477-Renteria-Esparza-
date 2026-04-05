@@ -121,6 +121,15 @@ Finally, some variables, such as speed limit and speeding indicators, appeared u
 - Updated the project plan based on progress  
 - Ensured alignment with assignment requirements  
 
+## Next Steps and Planned Analysis  
+
+As we move into the next phase of the project, our focus will shift toward deeper exploratory data analysis and generating actionable insights from the dataset. Specifically, we plan to examine relationships between vehicle maneuvers and crash types, as well as how environmental conditions such as weather, lighting, and road surface contribute to crash outcomes.
+
+We will also explore the distribution of key variables to identify patterns, such as which maneuvers are most commonly associated with certain crash types or causes. This will help us better understand behavioral and situational factors that influence accidents.
+
+In addition, we plan to develop visualizations to clearly communicate our findings. These will include bar charts, comparisons across categories, and potentially multi-variable breakdowns to highlight interactions between different factors.
+
+Finally, we will begin thinking about how to frame our results in a way that answers our original research questions. This includes identifying the most important variables, summarizing trends, and preparing insights for the final report.
 
 ## Summary  
 
