@@ -1,6 +1,6 @@
 ## Satus Report
 
-## Project Progress Overview  
+###  Project Progress Overview  
 
 Since completing our initial project plan, we have made strong progress in data acquisition, cleaning, and integration. The main goal of this phase was to build a clean and structured dataset that we can use to perform meaningful and creative analysis of traffic crashes in Chicago.
 
