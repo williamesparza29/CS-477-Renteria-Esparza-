@@ -19,7 +19,6 @@ We then continued cleaning and standardizing the data. This included standardizi
 
 Additionally, we created a secondary dataset (`analysis_df`) that excludes rows with unknown maneuver values. This allows for more precise and focused analysis when needed.
 
----
 
 ## Task Updates  
 
@@ -32,7 +31,6 @@ Artifacts:
 - `ProjectScript.py`
 - Raw datasets in `/Data/raw/`
 
----
 
 ### 2. Data Cleaning — **Completed (Initial Phase)**  
 We performed initial data cleaning by selecting relevant variables, standardizing categorical values, handling missing data, and converting data types. We also fixed inconsistencies such as mixed casing and formatting issues across columns.
@@ -41,15 +39,12 @@ Artifacts:
 - Processed datasets in `/Data/processed/`
 - Cleaning logic in `ProjectScript.py`
 
----
-
 ### 3. Data Integration — **Completed**  
 We merged the crash and vehicle datasets using `crash_record_id`. This allowed us to combine environmental context from crashes with behavioral information from vehicles into a single dataset.
 
 Artifacts:
 - `merged_2024.csv` in `/Data/processed/`
 
----
 
 ### 4. Feature Engineering — **Completed (Initial Phase)**  
 We created new grouped variables for contributory causes, such as DISTRACTION, TRAFFIC_VIOLATION, and IMPAIRMENT. This reduced complexity and made the data easier to analyze.
@@ -59,22 +54,18 @@ We also created a filtered dataset (`analysis_df`) that removes unknown maneuver
 Artifacts:
 - `analysis_df.csv` in `/Data/processed/`
 
----
 
 ### 5. Exploratory Data Analysis — **In Progress**  
 We have started exploring distributions of key variables, including maneuver types and crash causes. This initial exploration is helping us understand patterns in the data and guide our next steps.
 
----
 
 ### 6. Visualization — **Not Started**  
 We plan to create visualizations such as bar charts of crash causes, comparisons between maneuvers and crash types, and breakdowns of environmental conditions.
 
----
 
 ### 7. Final Report — **Not Started**  
 The final report will summarize insights and conclusions drawn from our analysis.
 
----
 
 ## Updated Timeline  
 
@@ -88,7 +79,6 @@ The final report will summarize insights and conclusions drawn from our analysis
 | Visualization | Not Started | Upcoming |
 | Final Report | Not Started | Final phase |
 
----
 
 ## Changes to Project Plan  
 
@@ -102,7 +92,6 @@ Third, we created multiple versions of the dataset, including a full dataset and
 
 Finally, we introduced category grouping for contributory causes to simplify the dataset and improve interpretability.
 
----
 
 ## Challenges and Solutions  
 
@@ -118,8 +107,6 @@ Additionally, the contributory cause variable contained too many categories, mak
 
 Finally, some variables, such as speed limit and speeding indicators, appeared unreliable or incomplete. We plan to further evaluate whether these variables should be excluded or handled differently in future analysis.
 
----
-
 ## Team Member Contributions  
 
 ### William
@@ -134,8 +121,6 @@ Finally, some variables, such as speed limit and speeding indicators, appeared u
 - Updated the project plan based on progress  
 - Ensured alignment with assignment requirements  
 
-
----
 
 ## Summary  
 
