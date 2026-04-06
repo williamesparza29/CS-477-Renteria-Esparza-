@@ -114,9 +114,9 @@ Finally, some variables, such as speed limit and speeding indicators, appeared u
 
 ### William
 - Developed the data acquisition pipeline  
-- Implemented chunking for large datasets  
-- Performed dataset merging and cleaning  
-- Documented preprocessing steps in code  
+- Implemented chunking for aquisition of the large datasets
+- Performed dataset merging and feature cleaning
+- Documented preprocessing steps in code 
 
 ### Enrique
 - Wrote and structured the status report  
