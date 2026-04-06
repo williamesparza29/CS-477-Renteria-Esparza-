@@ -7,7 +7,7 @@ Since completing our initial project plan, we have made strong progress in data 
 We successfully retrieved two large datasets from the City of Chicago: a crash dataset and a vehicle dataset. Due to the size of these datasets, we implemented a chunk-based data retrieval method to download the data in segments instead of all at once. This approach allowed us to handle over 200,000 rows efficiently without running into memory or performance issues.
 
 The data acquisition and preprocessing pipeline is implemented in our script:
-- `ProjectScript.py` :contentReference[oaicite:0]{index=0}  
+- `ProjectScript.py` 
 
 We also created a structured data storage system by separating raw data and processed data into different folders. This ensures reproducibility, allows us to track how the data evolves, and provides a fallback in case errors occur during processing. Although these folders are not yet uploaded to GitHub, we will address these issues later. 
 
