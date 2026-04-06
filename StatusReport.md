@@ -105,7 +105,7 @@ We also encountered inconsistencies in categorical variables, such as difference
 
 Additionally, the contributory cause variable contained too many categories, making analysis difficult. To address this, we grouped similar causes into broader categories such as distraction, impairment, and traffic violations.
 
-Next, related to our submission, the dataset is too large to put directly into the GitHub repository. We understadn that instructions for the final submission mention to use box when running into these types of issues of files that are too large. Unfortunately we could not figure out how to do this. To address this issue for the final submission, we will inquire with course staff/TA's to assist us in getting our datafiles uploaded. 
+Next, related to our submission, the dataset is too large to put directly into the GitHub repository. We understadn that instructions for the final submission mention to use box when running into these types of issues of files that are too large. Unfortunately we could not figure out how to do this. To address this issue for the final submission, we will inquire with course staff/TA's to assist us in getting our datafiles uploaded. If you run the script that is currently submitted, it be able to download the finals in the way they should be organized.
 
 Finally, some variables, such as speed limit and speeding indicators, appeared unreliable or incomplete. We plan to further evaluate whether these variables should be excluded or handled differently in future analysis.
 
