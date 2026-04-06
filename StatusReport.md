@@ -1,4 +1,4 @@
-## Satus Report
+## Status Report
 
 ###  Project Progress Overview  
 
